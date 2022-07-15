@@ -6,9 +6,9 @@
 
 ### How to Run
 ```
-  - open 'Visualize-Dijkstra-Algorithm' folder.
-  - run 'npm install' cmd in code editor ide.
-  - run 'npm run start'
+  open 'Visualize-Dijkstra-Algorithm' folder.
+  run 'npm install' cmd in code editor ide.
+  run 'npm run start'
  
 ```
  
