@@ -5,9 +5,12 @@
 ![image](https://user-images.githubusercontent.com/61316762/179213670-e6215da5-961c-4e2f-8f69-e910c026918d.png)
 
 ### How to Run
+```
   - open 'Visualize-Dijkstra-Algorithm' folder.
   - run 'npm install' cmd in code editor ide.
   - run 'npm run start'
+ 
+```
  
 
 
